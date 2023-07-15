@@ -6,7 +6,7 @@ module.exports = {
   networks:{
     localganache:{
       url:"http://127.0.0.1:7545",
-      accounts:["",""]//Private key or Address
+      accounts:["",""]//Private key
     }
   }
 };
