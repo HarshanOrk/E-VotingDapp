@@ -44,5 +44,5 @@ npx hardhat run scripts/deploy.js --network ganache
 ## Final Step:-
 Now run React app inside my-app/src folder.
 
-### Contact:
+### Contact:-
 If you face any error or issue feel free to [contact](https://telegram.me/Harshan_Ork) me
